@@ -20,7 +20,7 @@
 ### Jenkins, ArgoCD, github actions
 
 # Containerization and Orchestration
-### Dcoker and Kubernetes
+### Docker and Kubernetes
 
 # Monitoring: 
 ### Prometheus and Grafana
