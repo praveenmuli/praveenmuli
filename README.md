@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on opensource in the near future.
 - 📫 How to reach me is to just send a quick mailer on praveenreddymuli@gmail.com
 
-# Scripting: ###Bash, Shell, Groovy, Python
+# Scripting: 
+###Bash, Shell, Groovy, Python
 
 <!---
 praveenreddymuli/praveenreddymuli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
